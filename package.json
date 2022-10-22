@@ -1,0 +1,11 @@
+{
+  "name": "airdrop-stampcoin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/airdrop-stampcoin.git",
+  "author": "Tom Wilson <tom@hyper.io>",
+  "license": "MIT",
+  "dependencies": {
+    "warp-contracts": "^1.2.13"
+  }
+}
